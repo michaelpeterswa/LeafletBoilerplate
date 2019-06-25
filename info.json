@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "LeafletBoilerplate",
+            "version": "0.1",
+            "description": "This is boilerplate code I hope to use in the future",
+            "longDescription": "This code uses Bootstrap and Leaflet.js to create a dynamic and customizable map for later projects",
+            "githubLink": "https://github.com/michaelpeterswa/LeafletBoilerplate",
+            "date": "06.24.2019"
+        }
+    ]
+}
